@@ -18,18 +18,19 @@ Me llamo **Bjorn**, tengo 18 años, estudio en el Instituto *Thos i Codina* de M
 ### Cantantes que me gustan
     - Duki
     - Eladio Carrion
-    - Jay Wheeler 
+    - Jay Wheeler
 ### Enlaces web de interés
     [Thos i Codina](https://www.iesthosicodina.cat/)
     [InfoJobs](https://www.infojobs.net/)
     [W3Schools](https://www.w3schools.com/)
 
-### Imatge
-![Imatge Exercici](img.webp)
+### Imagen
+![Imagen Ejercicio](img.webp)
 
-### Tecnologies que m'agradaria aprendre
+### Tecnologias que me gustaria aprender o mejorar
 
-| Tecnologia | Nivell | Recurs per consultar
+| Tecnologia | Nivel | Recurs para consultar
 |---|---|---|
-|React.js | Sense coneixement | []
-|PHP|Sense coneixement|---|
+|React.js | Sin conocimiento | [React.JS](https://es.legacy.reactjs.org/community/courses.html)
+|PHP|Sin conocimiento|[PHPYa](https://www.tutorialesprogramacionya.com/phpya/)|
+|CSS | Intermedio | [CSS-Trickz](https://css-tricks.com/)
