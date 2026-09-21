@@ -34,3 +34,21 @@ Me llamo **Bjorn**, tengo 18 años, estudio en el Instituto *Thos i Codina* de M
 |React.js | Sin conocimiento | [React.JS](https://es.legacy.reactjs.org/community/courses.html)
 |PHP|Sin conocimiento|[PHPYa](https://www.tutorialesprogramacionya.com/phpya/)|
 |CSS | Intermedio | [CSS-Trickz](https://css-tricks.com/)
+
+### Bloque de codigo
+```python
+print(Hello World!)
+```
+
+### Cita
+> Yo seré el rey de los piratas
+
+### Objetivo personal
+    Graduarme de DAW
+
+### Lista de objetivos
+
+- [] Aprobar el primer trimestre
+- [x] Crear mi primer repositorio GIT
+ 
+    
