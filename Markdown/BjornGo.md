@@ -33,7 +33,6 @@ Me llamo **Bjorn**, tengo 18 años, estudio en el Instituto *Thos i Codina* de M
 |---|---|---|
 |React.js | Sin conocimiento | [React.JS](https://es.legacy.reactjs.org/community/courses.html)
 |PHP|Sin conocimiento|[PHPYa](https://www.tutorialesprogramacionya.com/phpya/)|
-|CSS | Intermedio | [CSS-Trickz](https://css-tricks.com/)
 
 ### Bloque de codigo
 ```python
